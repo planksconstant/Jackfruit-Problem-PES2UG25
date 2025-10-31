@@ -1,4 +1,4 @@
-# Jackfruit-Problem-PES2UG25
+<h1 align="center">Jackfruit-Problem-PES2UG25</h1>>
 Jackfruit problem/Mini Project for Sem1 PCPS PES University
 
 ## Contributors
